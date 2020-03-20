@@ -8,4 +8,5 @@ In order to make the API call, you need and an account in High Mobility and read
 Available examples:
 
 * [C#](csharp/Win-Example.cs)
+* [C#](csharp/Cross-Example.cs) (cross-platform)
 * [nodejs](nodejs/example.js)
